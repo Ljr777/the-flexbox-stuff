@@ -1,0 +1,14 @@
+.mischiefs{
+display:flex;
+justify-content:space-around;
+flex-direction:colum;
+background-color:blue;
+}
+@media(min-width:40rem){
+.mischiefs{
+flex-direction:columns;
+}
+}
+.mischief{
+margin:
+background: steelblue;}
